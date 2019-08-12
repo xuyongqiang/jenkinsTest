@@ -49,6 +49,15 @@
 	</servlet-mapping>
 
 	<servlet>
+		<servlet-name>toRegister</servlet-name>
+		<servlet-class>com.dj.toRegister</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>toRegister</servlet-name>
+		<url-pattern>/toRegister</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
 		<servlet-name>pageWithData</servlet-name>
 		<servlet-class>com.dj.pageWithDataServlet</servlet-class>
 	</servlet>

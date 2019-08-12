@@ -1,0 +1,6 @@
+com\dj\getMessageServlet.class
+ServletHelloWorld\HomePage.class
+com\dj\indexServlet.class
+ServletHelloWorld\WicketApplication.class
+com\dj\toRegister.class
+com\dj\pageWithDataServlet.class
