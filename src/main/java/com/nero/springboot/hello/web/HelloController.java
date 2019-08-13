@@ -11,6 +11,6 @@ import org.springframework.web.servlet.ModelAndView;
 public class HelloController {
     @RequestMapping("/")
     public ModelAndView hi(){
-        return "index.html";
+        return new ModelAndView("index.html");
     }
 }
