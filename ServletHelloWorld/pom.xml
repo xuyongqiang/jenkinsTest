@@ -172,7 +172,7 @@
 
 	<properties>
 		<wicket.version>1.3.2</wicket.version>
-		<jetty.version>6.1.4</jetty.version>
+		<jetty.version>6.1.17</jetty.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
 	</properties>
 </project>
